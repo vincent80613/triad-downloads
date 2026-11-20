@@ -6,7 +6,7 @@ Every release here contains only the Windows installer. Run `Triad-Setup-x.y.z.e
 
 ## Updating from an old Triad version
 
-- **Triad 1.0.1 or newer** checks for updates automatically. Open the launcher and, when the update prompt appears, choose **Update**, then **Restart and install**. You can also trigger a check from **Settings → Launcher updates → Check for updates**.
+- **Triad 1.0.1 or newer** checks for updates automatically. Open the launcher and, when the update prompt appears, choose **Update**, then **Restart and install**. You can also trigger a check from the **Launcher updates** section in Settings.
 - **Triad 1.0.0** shipped without an update feed and cannot update itself. Install the latest version once manually from the link above. Automatic updates work normally after that.
 - Accounts, instances, mods, worlds and settings are kept when you update or reinstall.
 
